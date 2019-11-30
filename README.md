@@ -1,18 +1,18 @@
 # webdev-group-resources
 A place for my peers to store links that they find helpful!
 
-###Javascript
+### Javascript
 ------
 
-###HTML
+### HTML
 ------
 
-###CSS
+### CSS
 ------
 
-###Node
+### Node
 ------
 
-###Database
+### Database
 ------
   
